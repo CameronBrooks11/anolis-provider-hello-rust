@@ -1,4 +1,4 @@
-# anolis-provider-template-rust
+# anolis-provider-hello-rust
 
 A template for an [Anolis](https://github.com/anolishq/anolis) device provider
 in Rust, built on the
