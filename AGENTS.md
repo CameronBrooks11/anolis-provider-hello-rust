@@ -1,4 +1,4 @@
-# AGENTS.md: anolis-provider-template-rust
+# AGENTS.md: anolis-provider-hello-rust
 
 The template every Rust provider starts from. Changes here reach every provider
 made from it afterwards, so keep it small: one synthetic device, the SDK, and

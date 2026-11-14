@@ -48,7 +48,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "anolis-provider-template-rust"
+name = "anolis-provider-hello-rust"
 version = "0.1.0"
 dependencies = [
  "anolis-provider-sdk",
